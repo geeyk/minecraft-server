@@ -33,7 +33,7 @@ Selecione a opção Importar (`Import`)
 **Copie** o Link abaixo e **cole** no caminho de download da janela de importação:
 
 ```text
-link.com.brrsss
+
 ```
 
 Clique em `OK` e aguarde a operação.

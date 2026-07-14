@@ -1,11 +1,8 @@
 # minecraft-server
-
 Servidor do Minecraft dedicado de Geeyk
-
 ## Instruções de instalação e configuração
 
 Requisitos:
-
 - Prism Launcher (última versão)
 - Modpack
 - URL do Servidor
@@ -33,7 +30,7 @@ Selecione a opção Importar (`Import`)
 **Copie** o Link abaixo e **cole** no caminho de download da janela de importação:
 
 ```text
-
+https://github.com/geeyk/minecraft-server/raw/refs/heads/main/modpack-geeykserver.zip
 ```
 
 Clique em `OK` e aguarde a operação.
